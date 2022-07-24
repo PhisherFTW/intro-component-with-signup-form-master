@@ -81,12 +81,9 @@ main {
     outline: none;
 }
 .termsservices{
-    display: flex;
-    justify-content: center;
+    /* display: flex; */
+    text-align: center;
     font-size: 10px;
-}
-.test {
-    visibility: hidden;
 }
 .terms {
     color: hsl(0, 100%, 74%);
